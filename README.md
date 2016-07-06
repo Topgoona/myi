@@ -1,2 +1,2 @@
 # myi
-Java based video call system
+This application provides a two way video communication system constructed using the java programming language.  The application also offers a text service allowing the two users to converse using just text, text and voice or just voice.   The text feature is also modifiable to one day include a speech to text engine to facilitate real time subtitling for the audio stream.  To use the system all the user will need is a computer an internet connection and a friend or colleague running the same application.
